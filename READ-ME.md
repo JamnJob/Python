@@ -1,3 +1,3 @@
 READ-ME.md 
 
-apenas para reconhecr o git e seus comandos bash 
+Este primeiro projeto é apenas um web scraping de casas anunciadas para venda e/ou locação em Portugal. Uso bibliotecas como BeautifulSoup4, requests, os.path. 
